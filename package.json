@@ -13,9 +13,13 @@
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.48.0",
+    "@types/node": "^20.4.0",
     "@vitejs/plugin-vue": "^4.1.0",
+    "pinia": "^2.1.4",
+    "sass": "^1.63.6",
     "typescript": "^5.0.2",
     "vite": "^4.3.9",
+    "vue-router": "^4.2.3",
     "vue-tsc": "^1.4.2"
   }
 }
